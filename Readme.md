@@ -4,7 +4,7 @@
 
 Usage (Unix):
 
-'''bash
+''' 
 ./Compile
 mono NoteFrequency.exe
 #or 
