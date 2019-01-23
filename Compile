@@ -1,0 +1,3 @@
+#!/usr/bin/env bash 
+csc /t:library NoteFreqLib.cs 
+csc /r:NoteFreqLib.dll MusicNoteFrequencyProject.cs -out:NoteFrequency.exe
