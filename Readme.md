@@ -4,9 +4,12 @@
 
 Usage (Unix):
 
-''' 
+```bash
 ./Compile
+
+# run:
 mono NoteFrequency.exe
-#or 
+# or 
 mono NoteFreqency.exe --i
-'''
+for interactive program.
+```
